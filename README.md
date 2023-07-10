@@ -1,3 +1,4 @@
+<img src="https://thumbs.gfycat.com/BetterFalseKid-max-1mb.gif" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" style="max-width: 300px; height: 182px; margin: 0px; width: 300px;" alt="Top 30 Developer GIFs | Find the best GIF on Gfycat" jsname="kn3ccd" data-ilt="1689005805580">
 <h1 align="center">Hi 👋, I'm Behruz</h1>
 <h3 align="center">A passionate Fullstack developer from Uzbekistan</h3>
 
