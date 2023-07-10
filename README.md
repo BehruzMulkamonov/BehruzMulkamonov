@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/lERi8E752QQAAAAC/conor-mcgregor-ufc.gif" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" style="max-width: 498px; height: 280px; margin: 0px; width: 465px;" alt="Conor GIFs | Tenor" jsname="kn3ccd">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW1vbzkxazNqaWo4ZXpramoydmU2M2xmZG5mZmtlMGdmOHdxeHV3YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7Jw6K3hokvqHVjmvNS/giphy.gif" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" style="max-width: 480px; width: 465px; height: 260px; margin: 0px;" alt="Conor GIFs - Get the best GIF on GIPHY" jsname="kn3ccd">
 <h1 align="center">Hi 👋, I'm Behruz</h1>
 <h3 align="center">A passionate Fullstack developer from Uzbekistan</h3>
 
