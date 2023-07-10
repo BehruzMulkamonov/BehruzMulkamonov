@@ -1,4 +1,4 @@
-<img src="https://thumbs.gfycat.com/BetterFalseKid-max-1mb.gif" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" style="max-width: 300px; height: 182px; margin: 0px; width: 300px;" alt="Top 30 Developer GIFs | Find the best GIF on Gfycat" jsname="kn3ccd" data-ilt="1689005805580">
+<img src="https://media.licdn.com/dms/image/C4E22AQFqIemP9nS9OQ/feedshare-shrink_2048_1536/0/1606827662032?e=2147483647&amp;v=beta&amp;t=OwWL4bA9sH-jTl8CK_0bifieZBpx0vJLSMVJW63Buls" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" style="max-width: 800px; height: 274px; margin: 0px; width: 365px;" alt="Karan Garg - Web Developer - AmbrionTech | LinkedIn" jsname="kn3ccd">
 <h1 align="center">Hi 👋, I'm Behruz</h1>
 <h3 align="center">A passionate Fullstack developer from Uzbekistan</h3>
 
