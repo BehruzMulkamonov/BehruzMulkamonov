@@ -1,5 +1,5 @@
-![image](https://github.com/BehruzMulkamonov/BehruzMulkamonov/assets/126500929/7d2c791b-3047-420f-9996-7909f848b8e5)
-
+[![image](https://github.com/BehruzMulkamonov/BehruzMulkamonov/assets/126500929/7d2c791b-3047-420f-9996-7909f848b8e5)
+](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW1vbzkxazNqaWo4ZXpramoydmU2M2xmZG5mZmtlMGdmOHdxeHV3YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7Jw6K3hokvqHVjmvNS/giphy.gif)
 <h1 align="center">Hi 👋, I'm Behruz</h1>
 <h3 align="center">A passionate Fullstack developer from Uzbekistan</h3>
 
